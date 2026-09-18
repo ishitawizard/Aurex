@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+requests
+cryptography
+python-multipart
+pandas

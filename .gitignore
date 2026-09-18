@@ -1,0 +1,10 @@
+aurex.db
+aurex_documents/
+__pycache__/aurex_vault.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Aurex local encryption key
+aurex_vault.key
